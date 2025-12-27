@@ -86,18 +86,6 @@ Problem solving • Logical thinking • Collaboration • System thinking
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leepidk&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leepidk&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/leepi-khobragade  
